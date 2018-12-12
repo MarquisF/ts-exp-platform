@@ -1,2 +1,2 @@
 # ts-exp-platform
-A tiny experimental platform for learning typescript
+A tiny experimental platform for learning typescript.
