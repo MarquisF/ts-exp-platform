@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "./node_modules/.bin/tsc"
-    ,"tsc": "./node_modules/.bin/tsc & node build/index.js"
+    ,"tsc": "./node_modules/.bin/tsc && node build/index.js"
   },
   "dependencies": {
     "typescript": "^3.2.2"
